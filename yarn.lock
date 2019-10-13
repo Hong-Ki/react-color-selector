@@ -2687,7 +2687,7 @@ color-name@^1.0.0:
 
 "color-selector@https://github.com/Hong-Ki/color-selector.git":
   version "0.0.1"
-  resolved "https://github.com/Hong-Ki/color-selector.git#c4b7dd006abcfa585aabf97f12291ea1283913a2"
+  resolved "https://github.com/Hong-Ki/color-selector.git#fe5f66c3e4f0ba8a144e85d91f45904524ea324f"
   dependencies:
     node-sass "^4.12.0"
     typescript "^3.6.3"
