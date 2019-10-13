@@ -16,9 +16,9 @@ const Color: SFC<Props> = ({ color, name, id }) => {
 
   const CopyLayer = (
     <HoverLayer>
-      <CopyButton onClick={onClick}>{color}</CopyButton>
       <CopyButton onClick={onClick}>{name}</CopyButton>
       <CopyButton onClick={onClick}>{id}</CopyButton>
+      <CopyButton onClick={onClick}>{color}</CopyButton>
     </HoverLayer>
   );
 
